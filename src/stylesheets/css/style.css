@@ -1,0 +1,115 @@
+header {
+    padding-top: 2%;
+    width: 70%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#section {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.wrap {
+    width: 100%;
+    height: 60px;
+    background-color: lightgray;
+    vertical-align: middle;
+}
+
+.search {
+    width: 80%;
+    height: 40px;
+    border: 0;
+    opacity: 0.8;
+    margin: 10px 0 0;
+    font-size: 20px;
+    padding-left: 1%;
+    background-color: white;
+    color: black;
+}
+
+.search:focus {
+    outline: 2px solid deepskyblue;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    border-bottom: 2px dotted lightgray;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.list_content {
+    height: auto;
+    padding-top: 5px;
+}
+
+.list_time {
+    text-align: right;
+}
+
+.highlight {
+    background: palevioletred;
+    color: white;
+}
+
+#number {
+    font-size: 30px;
+    width: auto;
+    height: auto;
+}
+
+.holder {
+    text-align: right;
+}
+
+button {
+    margin-left: 5px;
+    width: 100px;
+    float: right;
+}
+
+#del {
+    margin-left: 5px;
+}
+
+.add {
+    text-align: left;
+    width: 200px;
+    height: 100px;
+    margin-top: -30px;
+}
+
+.jBox-content {
+    width: auto;
+    height: auto;
+    min-width: 320px;
+    max-width: 460px;
+}
+
+.input {
+    margin-bottom: 10px;
+}
+
+.add_template {
+    text-align: center;
+    margin-top: 8%;
+}
+
+.input_button {
+    margin-top: 15%;
+    text-align: right;
+}
+
+.sp{
+    margin-right: 10%;
+}
+
+.input_hidden{
+    text-align: left;
+    color: red;
+}
